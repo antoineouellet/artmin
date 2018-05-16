@@ -10,3 +10,7 @@ Unzip contents in a folder. Essential for running are run.py (or debug.py), whic
 ## Built with
 ## Authors
 * **Antoine Ouellet** - *Initial work* - (antoine.ouellet@gmail.com)
+## License
+Developped internally at IOS Service Géoscientifiques - (www.iosgeo.com/)
+## Acknowledgments
+* Alexandre Néron for coaching and first version of mineral identification
