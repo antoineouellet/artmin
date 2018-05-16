@@ -10,6 +10,8 @@ Unzip contents in a folder. Essential for running are run.py (or debug.py), whic
 ## Contributing
 All coding was done from a geologist/physicist background with very little coding experience. As such many things are likely to be sub-optimal at best, both on a usability/application design and efficiency of numerical calculations.
 ## Built with
+Python 3.6.5 (64-bit)
+coded on Sublime Text 3.0 and Atom Editor 1.25.0
 ## Authors
 * **Antoine Ouellet** - *Initial work* - (antoine.ouellet@gmail.com)
 ## License
