@@ -1,0 +1,17 @@
+Version 1
+	1.0
+		- Suppression des phases équivalentes (d < 0.00001, 0.01 et 0.028284)
+		- Suppresion de quelques cas erreurs
+	1.1
+		- Tuite et Isoclasite supprimées car trop semblables aux apatites
+		- Tissintite supprimée, car d'une seule météorite, et confusion avec les feldspaths
+		- Zeolites supprimées car trop de confusion avec feldspaths et feldspathoïdes, surtout
+		  qu'il serait très surprenant qu'elles soient analysées.
+		- Tourmalines supprimées, car B indétectable.
+		- Rubinite supprimée, trop de confusion avec titanites
+		- Hongheite supprimée, problématique avec grenats et contient du B
+		- Paqueite supprimée, problème avec perovskite, titanite, grenat et c'est un minéral de chondrite
+		  (voir possiblement hutcheonite et grossmanite)
+		- Tsaregorodtsevite suprrimée car trop d'éléments légers affectant sont identification versus les
+		  feldspaths
+		- 
